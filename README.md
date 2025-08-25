@@ -275,8 +275,8 @@ To run this project, you will need to add the following environment variables to
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![GitHub](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
+[![linkedin](www.linkedin.com/in/rathod-himanshu-377014343)
+[![GitHub](https://github.com/rathodhimanshu123)
 
 © 2025 Rathod Himanshu M .
 
